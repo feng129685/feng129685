@@ -1,97 +1,140 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=feng129685&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%26%20Creator&descSize=20&descAlignY=55" width="100%"/>
+<!-- Snake Animation eating contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feng129685/feng129685/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feng129685/feng129685/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/feng129685/feng129685/output/github-snake.svg" />
+</picture>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I%27m+feng129685+%7C+NWPU+Student;AI+%E2%80%A2+Web+%E2%80%A2+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey%2C+I%27m+feng129685;NWPU+%7C+Software+Engineering;AI+Agent+%E2%80%A2+Web+%E2%80%A2+Computer+Vision)](https://git.io/typing-svg)
+
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,22&height=100&section=footer" width="100%"/>
 
 </div>
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g2aidcl8l3q37dpfjpkukru&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> About Me
-
-```javascript
-const feng129685 = {
-    school: "Northwestern Polytechnical University (NWPU)",
-    college: "School of Software",
-    passion: ["AI Agent", "Computer Vision", "Full-Stack Dev"],
-    currentProject: "Data Structure Agent - AI Learning Workstation",
-    motto: "Code hard, dream big 🚀"
-};
+```text
+ ╔══════════════════════════════════════════════════════════════╗
+ ║  > whoami                                                    ║
+ ║  Northwestern Polytechnical University (NWPU)                ║
+ ║  School of Software Engineering                              ║
+ ║                                                              ║
+ ║  > cat /etc/interests                                        ║
+ ║  🤖 AI Agent  👁️ Computer Vision  🌐 Full-Stack Dev          ║
+ ║                                                              ║
+ ║  > neofetch --skills                                         ║
+ ║  Python │ JavaScript │ Node.js │ C │ HTML/CSS │ SQLite       ║
+ ║                                                              ║
+ ║  > uptime                                                    ║
+ ║  Coding since 2025 │ 6 repos │ Always learning              ║
+ ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-87fb89e5-cf2c-4398-b2d0-507177e25c5b.gif" width="35"> Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a8183-15b4-4713-a04d-864a666f08a3.gif" width="25"> Data Structure Agent
+
+> AI-powered learning workstation for data structure courses
+
+`Node.js` `SQLite` `JWT` `PDF-Parse`
+
+⭐ Featured Project | [View Repo](https://github.com/feng129685/data-structure-agent)
+
+</td>
+<td width="50%">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a8183-15b4-4713-a04d-864a666f08a3.gif" width="25"> VisionCraft Studio
+
+> Computer Vision toolkit with 1 star
+
+`Python` `Jupyter` `Computer Vision`
+
+⭐ 1 Star | 🍴 1 Fork | [View Repo](https://github.com/feng129685/VisionCraft-Studio)
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257455-e5c9a3a3-4f6c-464e-9f82-6cc0c5a2b742.gif" width="35"> Tech Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+```
+Python ████████████████████████░░░░ 80%
+JavaScript ████████████████████░░░░░░ 70%
+Node.js ██████████████████░░░░░░░░ 65%
+C ██████████████░░░░░░░░░░░░ 50%
+HTML/CSS ██████████████████████████░ 90%
+```
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,html,css,sqlite,git,linux,jupyter,bash,vscode&perline=6&theme=dark" />
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/KzJkzjga8VRBABgO8F/giphy.gif" width="30"> GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212257453-23146153-333e-4e3a-8526-326c0a3f3b9d.gif" width="35"> GitHub Dashboard
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feng129685&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feng129685&layout=compact&theme=radical&hide_border=true" />
-</a>
+<!-- Stats Card -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=feng129685&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
+<!-- Streak Stats -->
+<img height="200" src="https://streak-stats.demolab.com?user=feng129685&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=feng129685&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- Top Languages -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feng129685&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<!-- Activity Graph -->
+<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=feng129685&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true" />
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEbv/giphy.gif" width="30"> Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-61412161-85ac-4298-af5d-02d1a6d04554.gif" width="35"> Trophies
 
 <div align="center">
 
-<a href="https://github.com/feng129685/data-structure-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feng129685&repo=data-structure-agent&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/feng129685/VisionCraft-Studio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feng129685&repo=VisionCraft-Studio&theme=radical&hide_border=true" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=feng129685&theme=tokyonight&no-frame=true&column=7&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Activity Graph
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feng129685&bg_color=0d1117&color=6e40c9&line=1f6feb&point=ffffff&area=true&area_color=6e40c9&hide_border=true" />
-</a>
-
----
-
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9S1FjZCT/giphy.gif" width="30"> Trophies
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-e4b60347-86e6-4638-894d-36c1b6aa01f0.gif" width="35"> Random Dev Quote
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=feng129685&theme=radical&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257464-b53052e2-6049-4002-9576-b3b98c2b47ae.gif" width="35"> Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feng129685)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3160414947@qq.com)
 
 </div>
 
@@ -99,9 +142,8 @@ const feng129685 = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=feng129685&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=feng129685&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,22&height=100&section=footer" width="100%"/>
 
 </div>
