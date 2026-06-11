@@ -1,17 +1,10 @@
 <div align="center">
 
-<!-- Snake Animation eating contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feng129685/feng129685/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feng129685/feng129685/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/feng129685/feng129685/output/github-snake.svg" />
-</picture>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,22&height=180&section=header&text=feng129685&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NWPU%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=58&descAlign=52" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey%2C+I%27m+feng129685;NWPU+%7C+Software+Engineering;AI+Agent+%E2%80%A2+Web+%E2%80%A2+Computer+Vision)](https://git.io/typing-svg)
-
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,22&height=100&section=footer" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey%2C+I%27m+feng129685;AI+Agent+%E2%80%A2+Web+%E2%80%A2+Computer+Vision;Always+building%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,7 +48,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a8183-15b4-4713-a04d-864a666f08a3.gif" width="25"> VisionCraft Studio
 
-> Computer Vision toolkit with 1 star
+> Computer Vision toolkit
 
 `Python` `Jupyter` `Computer Vision`
 
